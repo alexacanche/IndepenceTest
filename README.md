@@ -10,7 +10,7 @@ The project is just getting started, the parts of it are being thought and it wi
 
 
 ## Support
-To help further questions you can email samuel040999@mail.com
+You can email samuel040999@mail.com
 
 
 ## Contributing
@@ -21,6 +21,7 @@ Pull requests are not welcome. This project uses private information that is jus
 [Samuel Venegas](https://github.com/Sam9Ves3)
 
 [Alexa Canché](https://github.com/alexacanche)
+
 Thanks to the teacher Roxana Góngora who helped in the statistical and probability stuff, and to the amazing teacher Didier Gamboa for guide us answering all of the little questions.
 
 ❤
