@@ -18,6 +18,7 @@ Pull requests are not welcome. This project uses private information that is jus
 
 
 ## Authors and acknowledgment
+Authors' accounts:
 [Samuel Venegas](https://github.com/Sam9Ves3)
 
 [Alexa Canché](https://github.com/alexacanche)
