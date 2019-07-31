@@ -1,8 +1,8 @@
-# Statistical Grade
+# Independence test
 
-"Statistical Grade" is a project made by two data engineering students in which they use their group's grades to compare the development during the quarter and through analysis get some answer about specific factors that affect as both advantages and disadvantages in the student's scores 
+"Independence test" is a project made by two data engineering students in which they use a random sample of 1,000 registered voters according to their economic position and whether they are in "favor" or "against" the tax reform in the state of Illinois, USA.
 
-It contains information recollected through 4 months by our programming class teacher. It is commonly required a little bit knowledge about Probability, Statistic, and Python language to understand what the project is about
+The goal is to determine if voter opinions are independent of their income levels using hypothesis testing and the chi-square test procedure. It is commonly required knowledge about Probability, Statistic, and Python language to understand what the project is about
 
 
 ## Project status
@@ -10,7 +10,7 @@ The project is just getting started, the parts of it are being thought and it wi
 
 
 ## Support
-You can email samuel040999@mail.com
+You can email st1809173@upy.edu.mx or st1809027@upy.edu.mx
 
 
 ## Contributing
@@ -22,6 +22,6 @@ Pull requests are not welcome. This project uses private information that is jus
 
 [Alexa Canché](https://github.com/alexacanche)
 
-Thanks to the teacher Roxana Góngora who helped in the statistical and probability stuff, and to the amazing teacher Didier Gamboa for guide us answering all of the little questions.
+Thanks to the teacher Roxana Góngora who helped in the statistical and probability stuff, and to the amazing teacher Didier Gamboa for guiding us answering all of the little questions related to programming and the logistic.
 
 ❤
